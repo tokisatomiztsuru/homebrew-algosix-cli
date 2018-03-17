@@ -1,7 +1,7 @@
 class AlgosixCli < Formula
-	url "https://github.com/tokisatomiztsuru/algosix-cli/archive/0.0.1.tar.gz"
-	sha256 "0b09d7735401adaefdb6961b544f3547f8e31d894a08afb7d0f78af05f322aaf"
-    version "0.0.1"
+	url "https://github.com/tokisatomiztsuru/algosix-cli/archive/0.0.2.tar.gz"
+	sha256 "a0f7fe82e937ae75a6a8b9f1d65f9add176f54b9790245b9611b92f06817f9da"
+    version "0.0.2"
 	def install
 		bin.install Dir['bin/*']
 	end
